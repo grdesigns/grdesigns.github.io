@@ -6,3 +6,4 @@ avatar: "img/myAvatar.png"
 image: "img/IMG_1344.jpg"
 date:   2017-05-19 12:12:12
 ---
+During the Fall 2016 semester, I designed and prototyped an original consumer product.
