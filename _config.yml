@@ -1,7 +1,8 @@
 # Site settings
-title: Modern Blog
-description: Modern-Blog A Elegant template for Jekyll
+title: Gavriella Ravid
+description: An Engineer in the Works
 keywords: Modern, Blogging, Fun
-author: Wferr
+author: Gavriella
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: https://blog-gavvy.c9users.io
+
