@@ -1,0 +1,20 @@
+---
+title:  "On the Road to Becoming an Epic Person"
+subtitle: "a little about me."
+author: "Gavriella"
+avatar: "img/myAvatar.png"
+image: "img/IMG_1310.JPG"
+date:   2017-05-19 12:12:12
+---
+
+# My Background
+
+## A little context to understand the journey...
+
+I grew up in a small town with limited diversity in the mountains of Brevard, NC. After visiting my dad in Atlanta consistently throughout my childhood, I convinced my mom at the beginning of my sophomore year that we should move back to Atlanta for greater diversity and a better education. 
+Although the transition proved way more difficult than I could have imagined, I attended one of the best public schools in Georgia and formed new friendships. I wanted to challenge myself by gaining exposure college-level courses, so I moved up to Athens, GA and lived with three freshman girls in a house off-campus while taking all of my classes through the university. 
+Upon graduation, I started planning a gap year to explore my career interests. I had two internship options, one in Berkeley, CA at a light art company as a assistant project manager, and another working as an executive assistant for a small startup in downtown Denver, CO. Since my employer was an eight-year wall street veteran and I was fascinated with entrepreneurship, I chose the option in Denver. After a four month internship, I realized that I needed more life experience without structure to learn about myself. 
+Therefore, I pursued an opportunity to work on a farm for 12 hours/week in exchange for free housing and food on Molokai, Hawaii. During my 3 months on Molokai, I absolutely fell in love with Hawaiian culture. I learned so much about myself from those three months of farming, learning carpentry and construction, gardening, hunting, spearfish, diving, and preparing traditional Hawaiian food. My experience on Molokai illuminated the importance of real-world experiences and application-based learning in my life.
+I had never connected with a culture more than the one I came from before my time on Molokai. Molokai was packed with learning opportunities from building houses made of bamboo and palm in the exclusive Wailau Valley to swimming long distances after spearfishing. The insight I gained from the whole spectrum of experiences caused me to realize that the true substance of life is the connections one forms with other people.
+
+The following summer, I decided to challenge myself again by traveling alone to a country where I did not even speak the native language. I took calculus and molecular biology online while doing a work exchange on the island of Bastimentos in Bocas Del Toro. Six weeks in Panama taught me that I really love learning languages through immersion and yet again, meaningful experiences with other people inspire me most. The locals treated me significantly better between the time I first arrived and after they had watched me avidly learn their language just to be able to hear their stories. My realization of the importance of empathizing with other people fuels my motivation to become an engineer. I feel a strong sense of purpose to aid others in solving their problems and holistically forming a better environment to foster deeper human connections.  
