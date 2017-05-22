@@ -3,7 +3,7 @@ title:  "Magical Experiences"
 subtitle: "from my travels to every day life."
 author: "Gavriella"
 avatar: "img/myAvatar.png"
-image: "img/IMG_1310.jpg"
+image: "img/IMG_9433.JPG"
 date:   2017-05-18 12:12:12
 ---
 
