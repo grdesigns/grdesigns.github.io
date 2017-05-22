@@ -1,8 +1,12 @@
 ---
-title:  "On the Road to Becoming an Epic Person"
-subtitle: "a little about me."
+title:  "Magical Experiences"
+subtitle: "from my travels to every day life."
 author: "Gavriella"
 avatar: "img/myAvatar.png"
 image: "img/IMG_1310.jpg"
 date:   2017-05-18 12:12:12
 ---
+
+# The Lost Earring in the Pond
+
+The cold mountain water shocked my body and flooded my open pores. I ran from my steam room, down the steps, across the gravel of my driveway and wooden dock and flailed into the water. 
